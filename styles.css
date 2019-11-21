@@ -1,0 +1,90 @@
+body {
+	margin:0;
+	padding:0;
+	background:#FFD0D0;
+	overflow-x: hidden;
+}
+/*.headertext {
+	width:100%;
+}
+.headertext2 {
+	height:50px;
+	font-size:18px;
+}
+.headertext img {
+	height:200px;
+}
+*/
+.header {
+	background:#C0FCEA;
+	
+}
+
+.headertext2 a {
+	color:black;
+	text-decoration: none; 
+}
+.headertext2 a:hover{
+	background:#FFD0D0;
+	color:#000
+}
+/*
+ul {
+	margin:0;
+	padding:0;
+	list-style: none;
+	font-size: 18px;
+}
+*/
+.menu a {
+	color:black;
+	text-decoration: none;
+}
+.menu a:hover{
+	background:#FFD0D0;
+	color:#000;
+}
+*/
+.content {
+	margin:0;
+	padding:0;
+	background:#FFD0D0;
+}
+
+.iglink {
+	font-size:18px;
+}
+.iglink a {
+	color:black;
+	text-decoration: underline;
+}
+.iglink a:hover {
+	background:#C0FCEA;
+}
+.colorcito {
+	background:#C0FCEA;
+}
+.descripcion {
+	background:#C0FCEA;
+}
+.pic {
+	background:#C0FCEA;
+	border:10px solid #C0FCEA;
+}
+.delay-1 {
+	animation-delay:0.5s;
+}
+.foto {
+	width:300px;
+	background:#C0FCEA;
+}
+.eso {
+	background:#C0FCEA;
+}
+.eso a {
+	text-decoration: underline;
+	color:black;
+}
+.eso a:hover {
+	background:#FFD0D0;
+}
